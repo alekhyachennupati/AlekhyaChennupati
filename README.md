@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Java, Spring Boot & AWS.
+- 🌱 I’m currently learning Kubernetes & GCP.
+- 👯 I’m looking to collaborate on projects related to FinTech or MarTech.
+
 <!--
 **AlekhyaChennupati/AlekhyaChennupati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

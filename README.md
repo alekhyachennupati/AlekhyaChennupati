@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Alekhya, and I am results-driven Software Engineer with 6+ years of experience in scalable software development, cloud infrastructure, and microservices!
+
 - 🔭 I’m currently working on Java, Spring Boot & AWS.
 - 🌱 I’m currently learning Kubernetes & GCP.
 - 👯 I’m looking to collaborate on projects related to FinTech or MarTech.
